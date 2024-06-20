@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Labib Afnan</h1>
 <h3 align="center">As an ICE student, I am immersed in learning and exploring the dynamic field of Information and Communication Engineering.</h3>
 <!-- About Section -->
- # About me
+
+# About me
  
 <p>
  <img align="right" width="350" src="https://github.com/alsiam/alsiam/raw/main/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 📧 &emsp; Reach me anytime: labibafnanbb2004@gmail.com<br/><br/>
 
 </p>
 
