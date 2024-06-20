@@ -25,12 +25,4 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[algolia_repo]: https://github-readme-stats.vercel.app/api/pin/?username=lab-af&repo=github-readme-stats&cache_seconds=86400&theme=algolia
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lab-af&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/lab-af)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=lab-af)  
-
 
