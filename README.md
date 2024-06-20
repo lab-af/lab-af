@@ -1,8 +1,47 @@
-<h1 align="center">
- 
-<img src="https://readme-typing-svg.herokuapp.com/?
-font-Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🖐;+I'm+Labib+Afnan!;" />
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Animated GitHub Banner</title>
+<style>
+  body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #24292e; /* GitHub's background color */
+    font-family: Arial, sans-serif;
+    color: #fff;
+  }
+
+  .banner {
+    text-align: center;
+    animation: fadeIn 1s ease-in-out forwards;
+  }
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
+</head>
+<body>
+  <div class="banner">
+    <h1 style="font-size: 3rem;"> <!-- Adjust font size as needed -->
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🖐;+I'm+Labib+Afnan!;" alt="Animated Typing Text">
+    </h1>
+  </div>
+</body>
+</html>
+
 
 
 <h3 align="center">As an ICE student, I am immersed in learning and exploring the dynamic field of Information and Communication Engineering.</h3>
