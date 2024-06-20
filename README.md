@@ -4,7 +4,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="C:\Users\ASUS\Downloads" alt="Coding gif" />
+ <img align="right" width="350" src="https://github.com/alsiam/alsiam/raw/main/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
